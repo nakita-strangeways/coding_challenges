@@ -38,9 +38,9 @@ Test.assert_equals(is_divisible(48,3,4),True)
 
 
 
-#################################################
+###########################################
 #  CodeWars Test Results from above code  #
-#################################################
+###########################################
 
 # Time: 589ms Passed: 50 Failed: 0
 # Test Results:
@@ -100,9 +100,9 @@ Test.assert_equals(is_divisible(48,3,4),True)
 
 
 
-#######################
-#  Something to Note  #
-#######################
+########################
+#  Alternate Solutions #
+########################
 
 # a one line code option
 def is_divisible(n,x,y):
