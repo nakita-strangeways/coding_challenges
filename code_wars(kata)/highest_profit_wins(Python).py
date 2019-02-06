@@ -35,6 +35,7 @@ def min_max(lst):
 #################
 #  Basic Tests  #
 #################
+
 from random import randint, shuffle
 
 def test(lst, res):

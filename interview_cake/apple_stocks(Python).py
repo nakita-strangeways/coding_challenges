@@ -62,8 +62,6 @@ def get_max_profit(stock_prices):
 #  Tests  #
 ###########
 
-import unittest
-
 class Test(unittest.TestCase):
 
     def test_price_goes_up_then_down(self):
@@ -222,6 +220,8 @@ get_max_profit(stock_prices3)
 ###############################################
 #  Answer Code given by Interview Cake / O(n) #
 ###############################################
+
+import unittest
 
 def get_max_profit(stock_prices):
 if len(stock_prices) < 2:
